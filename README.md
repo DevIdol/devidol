@@ -8,7 +8,7 @@ I'm a Full Stack Developer at [MTM](https://metateammyanmar.com/en/) with a pass
 | CSS3             | Node.js/Express   | MySQL                    | MVVM              |                          |
 | SCSS/SASS        | Node.js/Strapi    | PostgreSQL               | Clean Architecture|                          |
 | Tailwind CSS     | Node.js/Nest.js   | MongoDB                  |                   |                          |
-| React.js/Next.js | Node.js/Servless  | CI/CD                    |                   |                          |
+| React.js/Next.js | Node.js/Serverless  | CI/CD                    |                   |                          |
 | Angular          | Golang /GinGonic  | AWS lambda               |                   |                          |
 | Vue              | Java/Spring Boot  | Nginx                    |                   |                          |
 | Flutter          | C#(ASP.Net Core)  | MicroService             |                   |                          |
