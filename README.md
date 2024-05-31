@@ -24,7 +24,7 @@ I'm a Full Stack Developer at [MTM](https://metateammyanmar.com/en/) with a pass
 
 📫 You can reach me via email at hashingthang@metateammyanmar.com
 
-😄 Pronouns: Thang Thang
+😄 Pronouns: [Thang Thang](https://github.com/DevIdol)
 
 ⚡ Fun fact: When I'm not coding, I enjoy [UK Match Day](https://www.youtube.com/results?search_query=uk+match+day).
 
