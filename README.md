@@ -11,7 +11,7 @@ I'm a Full Stack Developer at [MTM](https://metateammyanmar.com/en/) with a pass
 | React.js/Next.js | Node.js/Serverless  | CI/CD                    |                   |                          |
 | Angular          | Golang /GinGonic  | AWS lambda               |                   |                          |
 | Vue              | Java/Spring Boot  | Nginx                    |                   |                          |
-| Flutter          | C#(ASP.Net Core)  | MicroService             |                   |                          |
+| Flutter          | C#(ASP.Net Core)  | Microservice             |                   |                          |
 | React Native     | Middy.js          |                          |                   |                          |
 | Ionic            | RabbitMQ          |                          |                   |                          |
 
