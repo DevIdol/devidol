@@ -1,6 +1,6 @@
 ### Hi there, I'm [Ha Shing Thang!](https://devidol-mm.cyclic.app/) 👋
 
-I'm a Full Stack Developer at [MTM](https://metateammyanmar.com/en/) with a passion for crafting web and mobile applications. Here's a glimpse of my technology stack:
+I'm a Full Stack Developer at [MTM](https://metateammyanmar.com/en/) with a passion for crafting web and mobile applications.
 
 # Skills Overview
 
