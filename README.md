@@ -15,7 +15,7 @@ I'm a Full Stack Developer at [MTM](https://metateammyanmar.com/en/) with a pass
 | Flutter                                        | Java/Spring Boot               | MicroService                  |                               |                                 |
 | React Native                                   | C#(ASP.Net Core)               | RabbitMQ                       |                               |                                 |
 | Ionic                                          | Middy.js                       | Linux System Administration   |                               |                                 |
-|                                                |                                | CI/CD                          |                               |                                 |
+|  Ruby                                          | Ruby on Rails                  | CI/CD                          |                               |                                 |
 |                                                |                                | Linux Server Configuration      |                               |                                 |
 |                                                |                                | Docker                         |                               |                                 |
 
