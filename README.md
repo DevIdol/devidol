@@ -9,9 +9,9 @@ I'm a Full Stack Developer at [MTM](https://metateammyanmar.com/en/) with a pass
 | HTML5                                          | PHP/Laravel                    | MySQL                          | MVC                           | Web Application Security        |
 | CSS3/SCSS/SASS                                 | Node.js/Express                | PostgreSQL                     | MVVM                          |                                 |
 | MUI/Tailwind CSS/Bootstrap                     | Node.js/Strapi                 | MongoDB                        | Clean Architecture            |                                 |
-| React.js/Next.js (Redux Toolkit)              | Node.js/Nest.js                | SQLite                         |                               |                                 |
+| React.js/Next.js (Redux Toolkit, RTK Query)    | Node.js/Nest.js                | SQLite                         |                               |                                 |
 | Angular                                        | Node.js/Serverless             | Firebase                       |                               |                                 |
-| Vue                                            | Golang/GinGonic                | AWS/Google Cloud               |                               |                                 |
+| Vue.js                                         | Golang/GinGonic                | AWS/Google Cloud               |                               |                                 |
 | Flutter                                        | Java/Spring Boot               | MicroService                  |                               |                                 |
 | React Native                                   | C#(ASP.Net Core)               | RabbitMQ                       |                               |                                 |
 | Ionic                                          | Middy.js                       | Linux System Administration   |                               |                                 |
